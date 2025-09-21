@@ -1,0 +1,17 @@
+[project]
+name = "blog"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mkdocs>=1.6.1",
+    "mkdocs-material>=9.5.0",
+    "mkdocs-blog-plugin>=0.25.0",
+    "mkdocs-rss-plugin>=1.15.0",
+    "tomlscript>=0.2.1",
+]
+
+[tool.tomlscript]
+serve = "uv run -m mkdocs serve"
+deploy = "mkdocs gh-deploy"
