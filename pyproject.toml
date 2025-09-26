@@ -14,4 +14,4 @@ dependencies = [
 
 [tool.tomlscript]
 serve = "uv run -m mkdocs serve"
-deploy = "mkdocs gh-deploy"
+deploy = "uv run mkdocs gh-deploy"
