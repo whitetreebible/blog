@@ -28,7 +28,7 @@ Jacob commanded his household to "get rid of the foreign gods that are in your m
 
 In the lineage of Esau, there is a weird discrepancy in the names of Eliphaz's sons (Esau's grandchildren). In Genesis 36:11, "The sons of Eliphaz were Teman, Omar, Zepho, Gatam, and Kenaz" (with Amalek added as a son of a concubine in v12). However, the leaders of the tribes of Esau/Edom through Eliphaz are listed Teman, Omar, Zepho, Kenaz, Korah, Gatam, and Amalek in v15-16. Korah appears in the second list but not the first, and Gatam and Kenaz switch places. Is this Korah the same Korah listed as the son of Esau and Oholibamah? Or are there two Korahs--one a son of Esau and one a grandson through Eliphaz? There is a situation where the answer could be "both"--if Eliphaz slept with Oholibamah resulting in Korah being both a son and grandson of Esau. None of my commentaries address this discrepancy, so it's left as an open question for now. I'll leave them as separate individuals in the connections for now until I can find a better answer.
 
-That brings me through Genesis 36. Nex up, finishing Genesis 37-50 with Joseph and his brothers.
+That brings me through Genesis 36. Next up: finishing Genesis 37-50 with Joseph and his brothers.
 
 # Reading Slow
 
