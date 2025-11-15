@@ -32,7 +32,7 @@ That brings me through Genesis 36. Nex up, finishing Genesis 37-50 with Joseph a
 
 # Reading Slow
 
-In Gen 1, there is a startling parallel between the darkness "on the face" of the watery abyss (tehom) and the spirit of God hoving/fluttering "on the face" of the waters. In most English translations the words are different for variety, but in Hebrew, "al panim" is repreated--paralleling the darkness with the spirit of God and the watery abyss (tehom) with the waters (mayim). It reminds me of Psalm 18:11 where Yahweh makes himself a covering from the "darkness of waters" for Himself.
+In Gen 1, there is a startling parallel between the darkness "on the face" of the watery abyss (tehom) and the spirit of God hovering/fluttering "on the face" of the waters. In most English translations the words are different for variety, but in Hebrew, "al panim" is used for both--paralleling the darkness with the spirit of God and the watery abyss (tehom) with the waters (mayim). It reminds me of Psalm 18:11 where Yahweh makes himself a covering from the "darkness of waters" for Himself.
 
 What do I call "the deep"? After a few dictionaries and lexicons, I settled on "watery abyss" for tehom, to distinguish it from the "waters" (mayim) that are also present in the creation account. The watery abyss is a chaotic, primordial state, while the waters are part of the created order.
 
